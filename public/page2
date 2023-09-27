@@ -1,0 +1,76 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Page 1</title>
+</head>
+<body>
+    <body>
+        <nav>
+            <ul>
+                <li><a href="http://127.0.0.1:3002/index.html">Home</a></li>
+                <li><a href="http://127.0.0.1:3002/public/About.html">About</a></li>
+                <li><a href="http://127.0.0.1:3002/public/Services.html">Services</a></li>
+                <li><a href="http://127.0.0.1:3002/public/Contact.html">Contact</a></li>
+                <li><a href="http://127.0.0.1:3002/public/Weather.html">Weather</a></li>
+                <li><a href="http://127.0.0.1:3002/public/Foreign.html">Foreign news</a></li>
+            </ul>
+        </nav>
+    <h5>FASHION</h5>
+        <h1>BEAUTIFUL CELEBRITY <STYLE></STYLE></h1>
+        <img src="../asset/image/Image1.jpeg" height="300">
+        <p>Better late than never! Demi Moore jumped on the everywhere-all-the-time sheer trend, stepping out in Paris in a sheer black dress for a Fashion Week moment with Kate Moss.
+
+Moore paired her off-the-shoulder knit dress with a black clutch, black sunglasses, and black heels, while Moss (a sheer-dress enthusiast, actually) wore stockings and a black satin skirt suit over a white top. She, too, wore opaque sunglasses. They are stars, after all! <a href="#">Read more</a>
+        </p>
+    
+    <h5>FASHION</h5>
+        <h1>KINGDOM CELEBRITY</h1>
+        <img src="../asset/image/image2.jpeg">
+        <p>In the glitzy and glamorous world of Hollywood, the entertainment industry never sleeps.
+            From red carpet events to blockbuster releases, celebrity scandals to heartwarming success stories,
+            the past few months have been nothing short of a rollercoaster ride for fans and industry insiders alike.
+            Strap in, dear readers, as we take you on a journey through the latest happenings in Tinseltown<a href="#">More Read</a>
+        </p>
+    <h5>FASHION</h5>
+        <h1>KINGDOMh1>
+        <img src="../asset/image/image3.webp">
+        <p>  In the glitzy and glamorous world of Hollywood, the entertainment industry never sleeps.
+            From red carpet events to blockbuster releases, celebrity scandals to heartwarming success stories,
+            the past few months have been nothing short of a rollercoaster ride for fans and industry insiders alike.
+            Strap in, dear readers, as we take you on a journey through the latest happenings in Tinseltown<a href="#">More Read</a>
+        </p>
+    <h5>FASHION</h5>
+        <h1>KINGDOM </h1>
+        <img src="../asset/image/Image4.jpg">
+        <p>In the glitzy and glamorous world of Hollywood, the entertainment industry never sleeps.
+            From red carpet events to blockbuster releases, celebrity scandals to heartwarming success stories,
+            the past few months have been nothing short of a rollercoaster ride for fans and industry insiders alike.
+            Strap in, dear readers, as we take you on a journey through the latest happenings in Tinseltown </p><a href="#">More Read</a>
+        </p>
+    
+    <h5>FASHION</h5>
+        <h1>KINGDOM</h1>
+        <img src="../asset/image/image7.jpg">
+        <p>In the glitzy and glamorous world of Hollywood, the entertainment industry never sleeps.
+            From red carpet events to blockbuster releases, celebrity scandals to heartwarming success stories,
+            the past few months have been nothing short of a rollercoaster ride for fans and industry insiders alike.
+            Strap in, dear readers, as we take you on a journey through the latest happenings in Tinseltown  <a href="#">More Read</a>
+        </p>
+        <h5>FASHION</h5>
+        <h1>KINGDOM/h1>
+        <img src="../asset/image/image7.jpg">
+        <p>  <a href="#">More Read</a>
+        </p>
+    
+    <h5>FASHION</h5>
+        <h1>KINGDOM</h1>
+        <img src="../asset/image/image6.jpeg">
+        <p>  <a href="#">More Read</a>
+        </p>
+    </main>
+    </div>
+
+    <a href="page3.html" class="next-button">Next</a>
+</body>
+</html>
